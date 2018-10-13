@@ -6,7 +6,7 @@
 # Each positive becomes negatives,
 # and the negatives become positives.
 
-# BDD:
+# Video to my solution: https://youtu.be/oLg7Ojk1muM
 
 
 # SOLUTION:

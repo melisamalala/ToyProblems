@@ -9,7 +9,7 @@
 
 # url: https://www.codewars.com/kata/exclamation-marks-series-number-4-remove-all-exclamation-marks-from-sentence-but-ensure-a-exclamation-mark-at-the-end-of-string/train/python
 
-# Solution:
+# Video to my Solution: https://www.youtube.com/watch?v=F4j1WRduSAQ&t=25s
 
 def remove(s):
     s = s.replace("!", "")
