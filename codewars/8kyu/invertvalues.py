@@ -19,3 +19,9 @@ def invert(lst):
     return list
 
 print(invert([1, 2, 3, -4, -5]))
+
+
+# COMPREHENSIVE SOLUTION:
+
+def invert(lst):
+    return [-x for x in lst]
