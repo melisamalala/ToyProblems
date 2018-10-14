@@ -39,7 +39,7 @@ def anagram (s1, s2):
             count[letter] = 1
 
     for k in count:
-        if count[k] != 0
+        if count[k] != 0:
             return False
 
     return True
