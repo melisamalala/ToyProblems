@@ -1,22 +1,20 @@
-fibonacci_cache = {}
+from functools import lru_cache
+# least recently used cache
 
+
+@lru_cache(maxsize=1000)
 def fibonacci(n):
 
     # IF WE HAVE CACHED THE VALUE, THEN RETURN IT
 
-    if n in fibonacci_cache:
-        return fibonacci_cache[n]
-
     # Compute the nth term
     if n==1:
-        value= 1
+        return 1
     elif n == 2:
-        value=  1
+        return  1
     elif n > 2:
-        value = fibonacci(n-1) + fibonacci(n-2)
+        return fibonacci(n-1) + fibonacci(n-2)
 
-    fibonacci_cache[n] = value
-    return value
 
-for n in range(1, 1001):
+for n in range(1, 501):
         print (n, ":", fibonacci(n))
