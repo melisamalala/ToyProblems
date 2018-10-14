@@ -1,6 +1,6 @@
 # Simple, remove the spaces from the string, then return the resultant string.
 
-Video:https://www.youtube.com/watch?v=_STzKe1pTTA&feature=youtu.be
+# Video:https://www.youtube.com/watch?v=_STzKe1pTTA&feature=youtu.be
 
 # Codewars Link: https://www.codewars.com/kata/remove-string-spaces/train/python
 
