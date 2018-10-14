@@ -3,8 +3,6 @@
 # (The highest/lowest element is respectively only one element
 # at each edge, even if there are more than one with the same value!)
 
-Video Link:
-Codewars Link:
 
 # Solution:
 
@@ -20,9 +18,3 @@ Codewars Link:
 # sorted (arr, key=int)
 # Just a note: to sort from high low you write:
 # sorted (arr, key=int, reverse = True)
-
-
-def sum_array(arr):
-    array =[]
-    sorted(array)
-
