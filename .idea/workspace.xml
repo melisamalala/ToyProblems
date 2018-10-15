@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada34583-5456-4011-9668-272950c752ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codewars/8kyu/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/8kyu/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/8kyu/anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/5kyu/Beeramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/5kyu/Beeramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/8kyu/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/8kyu/fibonacci.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1960" />
+          <entry key="py" value="2040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1960" />
+          <entry key="Python" value="2040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -67,13 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/8kyu/fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <marker date="1539552841084" expanded="true" signature="182:187" ph="..." />
+                <marker date="1539585107250" expanded="true" signature="183:188" ph="..." />
               </folding>
             </state>
           </provider>
@@ -115,14 +114,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codewars/5kyu/Beeramid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="275">
+              <caret line="48" column="18" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="48" selection-end-column="18" />
               <folding>
-                <marker date="1539537537390" expanded="true" signature="1010:1011" ph="..." />
-                <marker date="1539537537390" expanded="true" signature="1010:1016" ph="..." />
+                <marker date="1539585992579" expanded="true" signature="1416:1417" ph="..." />
+                <marker date="1539585992579" expanded="true" signature="1416:1425" ph="..." />
               </folding>
             </state>
           </provider>
@@ -131,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/5kyu/The-Hashtag-Generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="167">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -164,16 +163,16 @@
         <option value="$PROJECT_DIR$/codewars/7kyu/sum-of-odd-numbers.py" />
         <option value="$PROJECT_DIR$/codewars/8kyu/sum-without-highest-and-lowest-number.py" />
         <option value="$PROJECT_DIR$/codewars/7kyu/predict-your-age.py" />
-        <option value="$PROJECT_DIR$/codewars/5kyu/Beeramid.py" />
         <option value="$PROJECT_DIR$/codewars/5kyu/The-Hashtag-Generator.py" />
         <option value="$PROJECT_DIR$/codewars/8kyu/anagram.py" />
         <option value="$PROJECT_DIR$/codewars/8kyu/fibonacci.py" />
+        <option value="$PROJECT_DIR$/codewars/5kyu/Beeramid.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="595" />
-    <option name="y" value="29" />
+    <option name="x" value="100" />
+    <option name="y" value="28" />
     <option name="width" value="1280" />
     <option name="height" value="662" />
   </component>
@@ -303,18 +302,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="29" width="1280" height="662" extended-state="0" />
+    <frame x="100" y="28" width="1280" height="662" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09372518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23431295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27192983" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27192983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,24 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars/5kyu/Beeramid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <marker date="1539537537390" expanded="true" signature="1010:1011" ph="..." />
-            <marker date="1539537537390" expanded="true" signature="1010:1016" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars/5kyu/The-Hashtag-Generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -403,12 +385,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/5kyu/The-Hashtag-Generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codewars/8kyu/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <marker date="1539552841084" expanded="true" signature="182:187" ph="..." />
+            <marker date="1539585107250" expanded="true" signature="183:188" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/5kyu/Beeramid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <marker date="1539585992579" expanded="true" signature="1416:1417" ph="..." />
+            <marker date="1539585992579" expanded="true" signature="1416:1425" ph="..." />
           </folding>
         </state>
       </provider>

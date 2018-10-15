@@ -16,5 +16,5 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 
-for n in range(1, 501):
+for n in range(1, 11):
         print (n, ":", fibonacci(n))

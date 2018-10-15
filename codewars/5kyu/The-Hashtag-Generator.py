@@ -11,16 +11,22 @@
 
 def generate_hashtag(s):
     # your code here
-    string = []
-    for i in s:
-        string = ''.join(("#", "i"))
-        string = string.capitalize()
-        string = string.replace(" ", "")
+    string = ''
+    for i in s.split(' '):
+        # Capitalize every word in the string
+        i = i.capitalize()
 
-        if len(string) > 140:
-            return False
 
-        elif len(string) == 0:
-            return False
-        else:
-            return string
+        # This adds every i in s together as a new word
+        string += i
+
+    # Add the hashtag
+    string = "#" + string
+
+    if len(string) > 140:
+        return False
+
+    elif len(string) == 0:
+        return False
+    else:
+        return string

@@ -19,7 +19,31 @@
 # The number of beer cans in each row equals number of the row to the power of 2 (square)
 
 
+import math
 
-def function (n):
 
-    return n **2
+def beeramid(bonus, price):
+    print(bonus, price)
+    counter = 1
+    beers = math.floor(bonus / price)
+    total = 0
+    if bonus < 0:
+        return 0
+    while True:
+        deck = counter * counter
+        total += deck
+        print(total)
+        if beers < total:
+            break
+        else:
+            counter += 1
+
+    return counter - 1
+
+    # your code
+    # your code
+#
+#
+# def function (n):
+#
+#     return n **2
