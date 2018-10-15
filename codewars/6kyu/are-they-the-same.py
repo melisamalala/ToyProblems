@@ -8,9 +8,9 @@ def comp(array1, array2):
         return sorted(x) == sorted(array2)
 
 
-    '''       
-    SOLUTION 2:
-    '''
+    # '''
+    # SOLUTION 2:
+    # '''
 
 
 def comp(array1, array2):
