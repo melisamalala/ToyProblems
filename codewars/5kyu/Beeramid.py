@@ -18,14 +18,10 @@
 # 2       2        2        2           2
 # The number of beer cans in each row equals number of the row to the power of 2 (square)
 
-
-import math
-
-
 def beeramid(bonus, price):
     print(bonus, price)
     counter = 1
-    beers = math.floor(bonus / price)
+    beers = bonus // price
     total = 0
     if bonus < 0:
         return 0

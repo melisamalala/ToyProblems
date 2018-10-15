@@ -16,7 +16,6 @@ def generate_hashtag(s):
         # Capitalize every word in the string
         i = i.capitalize()
 
-
         # This adds every i in s together as a new word
         string += i
 
@@ -30,3 +29,6 @@ def generate_hashtag(s):
         return False
     else:
         return string
+
+
+
