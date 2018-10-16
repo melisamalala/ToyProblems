@@ -17,3 +17,4 @@ def how_much_water(W, L, C):
         r = C - L
         return round((math.pow(1.1, r) * W), 2)
     # Good luck!
+    # Consider rate of progression
