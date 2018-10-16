@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada34583-5456-4011-9668-272950c752ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/codewars/7kyu/coffee.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/7kyu/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/8kyu/how-much-water-do-i-need.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +20,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="24" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="24" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="180" />
-          <entry key="py" value="3218" />
+          <entry key="py" value="3237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3398" />
+          <entry key="Python" value="3417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -78,10 +78,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/6kyu/are-they-the-same.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codewars/8kyu/how-much-water-do-i-need.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/7kyu/coffee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="194">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -128,15 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/8kyu/fizzbuzz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -164,11 +160,12 @@
         <option value="$PROJECT_DIR$/codewars/6kyu/are-they-the-same.py" />
         <option value="$PROJECT_DIR$/codewars/8kyu/fibonacci.py" />
         <option value="$PROJECT_DIR$/codewars/7kyu/coffee.py" />
+        <option value="$PROJECT_DIR$/codewars/8kyu/how-much-water-do-i-need.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
+    <option name="x" value="321" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="662" />
@@ -356,14 +353,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="23" width="1280" height="662" extended-state="0" />
+    <frame x="321" y="23" width="1280" height="662" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31930104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.2" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39122808" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.20350876" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -467,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars/6kyu/are-they-the-same.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codewars/6kyu/twosum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -500,10 +491,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars/7kyu/coffee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="194">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/6kyu/are-they-the-same.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/8kyu/how-much-water-do-i-need.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
