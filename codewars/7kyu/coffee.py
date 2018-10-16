@@ -1,6 +1,6 @@
 # Victors Solution
 
-how_much_coffee()
+# how_much_coffee()
 
 
 def how_much_coffee(e):
@@ -21,4 +21,11 @@ def how_much_coffee(e):
 
 
 
-# List Comprehension:
+# List Comprehension by Victor Ireri:
+
+def how_much_coffee(e):
+    etm = ['cw', 'dog', 'cat', 'movie', 'CW', 'DOG', 'CAT', 'MOVIE']
+    count = sum([1 if i.islower() else 2 for i in e if i in etm])
+    return [0 if count == 0 else count if count < 4 else 'You need extra sleep'][0]
+
+
