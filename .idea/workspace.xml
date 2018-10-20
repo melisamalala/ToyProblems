@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ada34583-5456-4011-9668-272950c752ed" name="Default Changelist" comment="" />
+    <list default="true" id="ada34583-5456-4011-9668-272950c752ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/codewars/8kyu/classic-hello-world.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,23 +20,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="29" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="29" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="180" />
-          <entry key="py" value="3416" />
+          <entry key="py" value="3418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3596" />
+          <entry key="Python" value="3598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -79,18 +81,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/6kyu/twosum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-              <folding>
-                <marker date="1539599748783" expanded="true" signature="855:1109" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/7kyu/predict-your-age.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -108,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/4kyu/stringmix.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -118,10 +108,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/7kyu/Narcissistic-Numbers.py">
+        <entry file="file://$PROJECT_DIR$/codewars/8kyu/duck-duck-goose.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="45">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codewars/8kyu/classic-hello-world.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -161,10 +160,12 @@
         <option value="$PROJECT_DIR$/codewars/8kyu/how-much-water-do-i-need.py" />
         <option value="$PROJECT_DIR$/codewars/7kyu/santa.py" />
         <option value="$PROJECT_DIR$/codewars/4kyu/stringmix.py" />
+        <option value="$PROJECT_DIR$/codewars/8kyu/duck-duck-goose.py" />
+        <option value="$PROJECT_DIR$/codewars/8kyu/classic-hello-world.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="113" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
@@ -359,15 +360,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="23" width="1280" height="662" extended-state="1" />
+    <frame x="113" y="23" width="1280" height="662" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31930104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31930104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.2" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.47894737" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.47894737" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -520,6 +521,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars/4kyu/stringmix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/8kyu/duck-duck-goose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/8kyu/classic-hello-world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
