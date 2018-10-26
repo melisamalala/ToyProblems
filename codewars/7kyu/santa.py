@@ -3,7 +3,6 @@
 # Victor's solution:
 import calendar
 
-
 def naughty_or_nice(data):
     ml = [len(data[calendar.month_name[x]]) for x in range(1, len(data))]
     mn = [calendar.month_name[x] for x in range(1, len(data))]
@@ -22,3 +21,8 @@ def naughty_or_nice(data):
         return 'Nice!'
     else:
         return 'Naughty!'
+
+
+
+# SHORTER CODE:
+
