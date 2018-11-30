@@ -23,6 +23,7 @@ def anagram (s1, s2):
     # count frequency of each letter
     count = {}
 
+<<<<<<< HEAD
     for i in s1:
         # for every letter in first string
         if i in count:
@@ -37,6 +38,22 @@ def anagram (s1, s2):
 
         else:
             count[i] = 1
+=======
+    for letter in s1:
+        # for every letter in first string
+        if letter in count:
+            count [letter] +=1
+
+        else:
+            count [letter] = 1
+
+    for letter in s2:
+        if letter in count:
+            count[letter] -= 1
+
+        else:
+            count[letter] = 1
+>>>>>>> 0a7914b7ffa209600dcfe241ff0a1115a5829fee
 
     for k in count:
         if count[k] != 0:
